@@ -7,7 +7,7 @@
 > 영화 예매 사이트 - [MovieFlex](https://github.com/FullStackStudy/movie.git) (2025.06.17 ~ 2025.07.15)
 
 ### 개인 프로젝트
-> Java 텍스트 어드벤쳐 - [TextDungeon](https://github.com/yunune96/JavaProject) (2025.09.07 ~ 2025.09.16)
+> Java 텍스트 어드벤쳐 - [TextDungeon](https://github.com/yunune96/JavaProject) (2025.09.07 ~ 2025.09.16)<br>
 > 실시간 매칭 모바일 웹 사이트 - [WithoutAlone](https://github.com/yunune96/WA.git) (2025.08.01 ~ 2025.09.15)
 
 ### 교육 이력
